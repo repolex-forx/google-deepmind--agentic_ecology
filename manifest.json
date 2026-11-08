@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "agentic_ecology",
+  "versions": [
+    {
+      "commit": "15d216543252d8b5e27b7c94c0f604485e60dbfe",
+      "parsed_at": "2026-11-08T08:56:37.708470+00:00",
+      "filetree": "filetree/15d216543252d8b5e27b7c94c0f604485e60dbfe.nq.gz",
+      "blobs": [
+        "blob/854eaa3068d3a0c7e347438628d965085b655889.nq.gz",
+        "blob/b5b4483bb583c5461c4a3ce529db7d5bd2236f73.nq.gz",
+        "blob/b98035a72cba8a9160f80f7bf9770e7147310a04.nq.gz",
+        "blob/c2c9993191d848586c3088a3241ab3682c0eb285.nq.gz",
+        "blob/507f9979a378adc6306aaae98dec0cdaadb1958f.nq.gz",
+        "blob/6bd7d06dd72672de437739aea4bee645f4eca004.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/9042227f95044536a4644a09f82f43cc3694db52.nq.gz",
+        "blob/d51d8370ed3f454c9cac94a16051b7821c6acf8c.nq.gz",
+        "blob/144098bbb820f9b49dfbbbe6a8f8f1a0e00bc0da.nq.gz",
+        "blob/f3e22ef72f151a3b6721ff21a8cb57d84f808b23.nq.gz",
+        "blob/8fe94e1adc63ff77e132a1fa939daa643dece4c8.nq.gz",
+        "blob/2c55a12a36fd4069204d84d822c027c1926ff099.nq.gz",
+        "blob/2e64526e3993bb170072fe687eeda7b92638a682.nq.gz",
+        "blob/e3730d3889f7e1f7ebead0fd07b40e299be228ce.nq.gz",
+        "blob/0393da11295cece455d7aa6d0d3b666071e55cad.nq.gz",
+        "blob/a7d7398a8c21d5c63f5655694e35ad06eee24a8e.nq.gz",
+        "blob/26d56dd29a068c365ad3d0bd0f6f0c39b0c581e6.nq.gz",
+        "blob/e0ce9729a8358a41e6457386b9e178ef07c1208d.nq.gz",
+        "blob/8a6160a8729f15188d34217761cb4e7be27a287a.nq.gz",
+        "blob/bd5c6e6481647b10127eebc813ed52e4939a380d.nq.gz",
+        "blob/28ca03c529a77e6b7312157c28905d30e0acef02.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
