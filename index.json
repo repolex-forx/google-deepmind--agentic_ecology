@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "agentic_ecology",
+  "versions": [
+    {
+      "commit": "15d216543252d8b5e27b7c94c0f604485e60dbfe",
+      "tag": "",
+      "parsed_at": "2026-11-08T08:58:10.443858+00:00"
+    }
+  ]
+}
